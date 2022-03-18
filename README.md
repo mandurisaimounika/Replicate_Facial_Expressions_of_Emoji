@@ -7,8 +7,8 @@ The model is already trained on the dataset and stored in the emotion_model.h5 f
 3. run the gui.py file for the graphical user interface
 
 # Commands for the steps mentioned above
-Train the model:  python train.py
+__Train the model__: python train.py <br />
 This command will give the output of the model summary and train the model with the dataset given upto 10 epochs.
 
-Run the UI: python gui.py
+__Run the UI__: python gui.py <br />
 This command will start the camera and open the application with the face in the camera and emoji.
