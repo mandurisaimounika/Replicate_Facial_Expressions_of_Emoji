@@ -1,3 +1,6 @@
+# Link to source code
+https://github.com/mandurisaimounika/Replicate_Facial_Expressions_of_Emoji
+
 # Replicate_Facial_Expressions_of_Emoji
 The model is already trained on the dataset and stored in the emotion_model.h5 file.
 
